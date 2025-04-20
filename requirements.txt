@@ -1,0 +1,7 @@
+fastapi
+python-dotenv
+uvicorn
+pandas 
+psycopg2
+numpy
+streamlit
